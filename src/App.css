@@ -1,0 +1,15 @@
+.image-container {
+text-align: center;
+margin: 5px;
+
+}
+.lower-container {
+    text-align: center;
+    margin-top: 20px;
+}
+button {
+    width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: beige;
+}
